@@ -1,0 +1,349 @@
+#file {
+    background-color: #0A0A0A;
+}
+
+#one {
+    font-family: "JockeyOne";
+    position: fixed;
+    top: 89px;
+    left: 223px;
+    font-size: 129.92px;
+    color: #AA4A44;
+    text-shadow:
+    0 0 102px #AA4A44,
+    0 0 151px #AA4A44;
+}
+
+#two {
+    font-family: "Kankin"; 
+    position: fixed;
+    top: 380px;
+    left: 223px;
+    font-size: 37.75px;
+    color: #FFFFFF;
+}
+
+#three {
+    position: fixed;
+    top: 820px;
+    left: 1690px;
+    font-size: 37.75px;
+    color: #FFFFFF;
+}
+
+a.text:active, /* активная/посещенная ссылка */
+a.text:hover,  /* при наведении */
+a.text {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+ 
+#second {
+    font-family: "Kankin";
+    position: fixed;
+    top: 130px;
+    left: 161px;
+    font-size: 88.24px;
+    color: #AA4A44;
+    width: 912px;
+    height: 120px;
+    text-shadow:
+    0 0 102px #AA4A44,
+    0 0 151px #AA4A44;
+}
+
+#first {
+    font-family: "Kankin"; 
+    position: fixed;
+    top: 460px;
+    left: 161px;
+    height: 106px;
+    width: 912px;
+    font-size: 37.5px;
+    color: #FFFFFF;
+}
+
+#aaa {
+    position: fixed;
+    top: 820px;
+    left: 1690px;
+    width: 132px;
+    height: 53px;
+    font-size: 37.75px;
+    color: #FFFFFF;
+}
+
+#rectangle {
+    position: fixed;
+    width: 533px;
+    height: 668px;
+    top: 61px;
+    left: 63px;
+    background: #151719;
+  }
+
+  #rectangle2 {
+    top: 61px;
+    left: 693px;
+    position: fixed;
+    width: 533px;
+    height: 668px;
+    background: #151719;
+  }
+
+  #rectangle3 {
+    position: fixed;
+    width: 533px;
+    height: 668px;
+    top: 61px;
+    left: 1323px;
+    background: #151719;
+  }
+
+  #coust {
+    font-family: "Kankin";
+    position: fixed;
+    top: 740px;
+    left: 282px;
+    font-size: 36.13px;
+    color: #AA4A44;
+    text-shadow:
+    0 0 102px #AA4A44,
+    0 0 151px #AA4A44;
+}
+
+#coust1 {
+    font-family: "Kankin";
+    position: fixed;
+    top: 740px;
+    left: 924px;
+    font-size: 36.13px;
+    color: #AA4A44;
+    text-shadow:
+    0 0 102px #AA4A44,
+    0 0 151px #AA4A44;
+}
+
+#coust2 {
+    font-family: "Kankin";
+    position: fixed;
+    top: 740px;
+    left: 1557px;
+    font-size: 36.13px;
+    color: #AA4A44;
+    text-shadow:
+    0 0 102px #AA4A44,
+    0 0 151px #AA4A44;
+}
+
+#name {
+    font-family: "Kankin";
+    position: fixed;
+    top: 69px;
+    left: 231px;
+    font-size: 46.32px;
+    color: #AA4A44;
+    width: 912px;
+    height: 120px;
+    text-shadow:
+    0 0 102px #AA4A44,
+    0 0 151px #AA4A44;
+}
+
+#name2 {
+    font-family: "Kankin";
+    position: fixed;
+    top: 69px;
+    left: 878px;
+    font-size: 46.32px;
+    color: #AA4A44;
+    width: 912px;
+    height: 120px;
+    text-shadow:
+    0 0 102px #AA4A44,
+    0 0 151px #AA4A44;
+}
+
+#name3 {
+    font-family: "Kankin";
+    position: fixed;
+    top: 69px;
+    left: 1456px;
+    font-size: 46.32px;
+    color: #AA4A44;
+    width: 912px;
+    height: 120px;
+    text-shadow:
+    0 0 102px #AA4A44,
+    0 0 151px #AA4A44;
+}
+
+#course1 {
+    font-family: "Kankin";
+    position: fixed;
+    z-index:100;
+    top: 218px;
+    left: 98px;
+    font-size: 36.13px;
+    color: #ffffff;
+    text-shadow:
+    0 0 151px #ffffff;
+}
+
+#course2 {
+    font-family: "Kankin";
+    position: fixed;
+    z-index:100;
+    top: 218px;
+    left: 730px;
+    font-size: 36.13px;
+    color: #ffffff;
+    text-shadow:
+    0 0 151px #ffffff;
+}
+#course3 {
+    font-family: "Kankin";
+    position: fixed;
+    z-index:100;
+    top: 570px;
+    left: 730px;
+    font-size: 36.13px;
+    color: #AA4A44;
+    width: 912px;
+    height: 120px;
+    text-shadow:
+    0 0 151px #AA4A44;
+}
+
+#course4 {
+    font-family: "Kankin";
+    position: fixed;
+    z-index:100;
+    top: 218px;
+    left: 1360px;
+    font-size: 36.13px;
+    color: #ffffff;
+    text-shadow:
+    0 0 151px #ffffff;
+}
+
+#course5 {
+    font-family: "Kankin";
+    position: fixed;
+    z-index:100;
+    top: 315px;
+    left: 1360px;
+    font-size: 36.13px;
+    color: #AA4A44;
+    width: 912px;
+    height: 120px;
+    text-shadow:
+    0 0 151px #AA4A44;
+}
+
+#course6 {
+    font-family: "Kankin";
+    position: fixed;
+    z-index:100;
+    top: 415px;
+    left: 1360px;
+    font-size: 36.13px;
+    color: #AA4A44;
+    width: 912px;
+    height: 120px;
+    text-shadow:
+    0 0 151px #AA4A44;
+}
+
+#za {
+    font-family: "Kankin";
+    position: fixed;
+    z-index:100;
+    top: 840px;
+    left: 248px;
+    font-size: 36.13px;
+    color: #ffffff;
+    width: 912px;
+    height: 120px;
+    text-shadow:
+    0 0 151px #ffffff;
+}
+
+#za2 {
+    font-family: "Kankin";
+    position: fixed;
+    z-index:100;
+    top: 840px;
+    left: 893px;
+    font-size: 36.13px;
+    color: #ffffff;
+    width: 912px;
+    height: 120px;
+    text-shadow:
+    0 0 151px #ffffff;
+}
+
+#za3 {
+    font-family: "Kankin";
+    position: fixed;
+    z-index:100;
+    top: 840px;
+    left: 1539px;
+    font-size: 36.13px;
+    color: #AA4A44;
+    width: 912px;
+    height: 120px;
+    text-shadow:
+    0 0 151px #AA4A44;
+}
+
+#oval {
+    position: fixed;
+	width: 200px;
+	height: 100px;
+    top: 810;
+    left: 209;
+	background: #151719;
+	-moz-border-radius: 100px / 50px;
+	-webkit-border-radius: 100px / 50px;
+	border-radius: 100px / 50px;
+}
+
+#oval2 {
+    position: fixed;
+	width: 200px;
+	height: 100px;
+    top: 810;
+    left: 860;
+	background: #151719;
+	-moz-border-radius: 100px / 50px;
+	-webkit-border-radius: 100px / 50px;
+	border-radius: 100px / 50px;
+}
+
+#oval3 {
+    position: fixed;
+	width: 200px;
+	height: 100px;
+    top: 810;
+    left: 1500;
+	background: #151719;
+	-moz-border-radius: 100px / 50px;
+	-webkit-border-radius: 100px / 50px;
+	border-radius: 100px / 50px;
+}
+
+#photo {
+    left: 720px;
+}
+
+@font-face {
+    font-family: "Kankin"; 
+    src: url("kankin.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+    font-family: "JockeyOne"; 
+    src: url("JockeyOne-Regular.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+  } 
